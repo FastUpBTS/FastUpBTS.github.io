@@ -10,9 +10,9 @@
     </script>
 </head>
 <br />
-<center style="font-size:45px;color:green;line-height:-10px"> Fast Uplink Bandwidth Testing for Internet Users </center>
+<center style="font-size:45px;color:green;"> Fast Uplink Bandwidth Testing for Internet Users </center>
 
-![license](https://img.shields.io/badge/Platform-Android-green "Android")
+![license](https://img.shields.io/badge/platform-web-green "Web")
 ![license](https://img.shields.io/badge/Version-Beta-yellow "Version")
 ![license](https://img.shields.io/badge/Licence-Apache%202.0-blue.svg "Apache")
 
