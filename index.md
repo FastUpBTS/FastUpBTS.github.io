@@ -30,9 +30,9 @@ The inefficiency and high cost of BTSes root in their methodologies that use exc
 In particular, compared to downlink BTSes, uplink BTSes are subject to more severe performance problems and technical challenges.
 This paper presents FastUpBTS to make uplink BTS fast and cheap while maintaining high accuracy.
 The key idea is to strategically accommodate and exploit the noise rather than repetitively and exhaustively suppress the impact of noise.
-This is achieved by a novel statistical sampling framework termed {\em fuzzy rejection sampling}.
+This is achieved by a novel statistical sampling framework termed *fuzzy rejection sampling*.
 We build FastUpBTS as an end-to-end BTS that implements fuzzy rejection sampling based on memorization-reinforced throughput denoising, data-driven server selection, and informed multi-homing support.
-Our evaluation shows that with only 30 test servers, FastUpBTS achieves the same level of accuracy compared to the state-of-the-art BTS (\url{SpeedTest.net}) that deploys $\sim$16,000 servers.
+Our evaluation shows that with only 30 test servers, FastUpBTS achieves the same level of accuracy compared to the state-of-the-art BTS (SpeedTest.net) that deploys ~16,000 servers.
 Most importantly, FastUpBTS makes bandwidth tests 5.4$\times$ faster and 6.8$\times$ more data-efficient.
 
 ## FastUpBTS We Implement
