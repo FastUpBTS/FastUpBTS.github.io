@@ -48,7 +48,7 @@ table th:nth-of-type(1) {
 
 |BTS|Implementation|
 |:----:|------|
-|FastUpBTS|[https://github.com/fastbts/<br>fastbts.github.io/tree/master/FastBTS](https://github.com/fastbts/fastbts.github.io/tree/master/FastBTS)|
+|FastUpBTS|[https://github.com/FastUpBTS/FastUpBTS/tree/main/FastUpBTS](https://github.com/FastUpBTS/FastUpBTS/tree/main/FastUpBTS)|
 
 ## Representitive BTSes
 <style>
@@ -64,7 +64,7 @@ table th:nth-of-type(3) {
 </style>
 |BTS|Website|Our Implementation|
 |:----:|------|------|
-|ThinkBroadBand|[https://www.thinkbroadband.com]([https://speedof.me/](https://www.thinkbroadband.com/speedtest))|[https://github.com/fastbts/<br>fastbts.github.io/tree/master/Speedof.me/](https://github.com/fastbts/fastbts.github.io/tree/master/Speedof.me/)|
+|ThinkBroadBand|[https://www.thinkbroadband.com](https://www.thinkbroadband.com)|[https://github.com/FastUpBTS/FastUpBTS/tree/main/TBB](https://github.com/FastUpBTS/FastUpBTS/tree/main/TBB)|
 |SpeedOf|[https://speedof.me](https://speedof.me/)|[https://github.com/fastbts/<br>fastbts.github.io/tree/master/Speedof.me/](https://github.com/fastbts/fastbts.github.io/tree/master/Speedof.me/)|
 |BWP|[https://www.bandwidthplace.com](https://www.bandwidthplace.com/)|[https://github.com/fastbts/<br>fastbts.github.io/tree/master/BandwidthPlace](https://github.com/fastbts/fastbts.github.io/tree/master/BandwidthPlace/)|
 |Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com)|[https://github.com/fastbts/<br>fastbts.github.io/tree/master/XFinity/](https://github.com/fastbts/fastbts.github.io/tree/master/XFinity/)|
