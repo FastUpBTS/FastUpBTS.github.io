@@ -64,9 +64,9 @@ table th:nth-of-type(3) {
 </style>
 |BTS|Website|Our Implementation|
 |:----:|------|------|
-|ThinkBroadBand|[https://www.thinkbroadband.com](https://www.thinkbroadband.com)|[https://github.com/FastUpBTS/FastUpBTS/tree/main/TBB](https://github.com/FastUpBTS/FastUpBTS/tree/main/TBB)|
-|SpeedOf|[https://speedof.me](https://speedof.me/)|[https://github.com/fastbts/<br>fastbts.github.io/tree/master/Speedof.me/](https://github.com/fastbts/fastbts.github.io/tree/master/Speedof.me/)|
-|BWP|[https://www.bandwidthplace.com](https://www.bandwidthplace.com/)|[https://github.com/fastbts/<br>fastbts.github.io/tree/master/BandwidthPlace](https://github.com/fastbts/fastbts.github.io/tree/master/BandwidthPlace/)|
-|Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com)|[https://github.com/fastbts/<br>fastbts.github.io/tree/master/XFinity/](https://github.com/fastbts/fastbts.github.io/tree/master/XFinity/)|
-|FAST|[https://fast.com](https://fast.com)|[https://github.com/fastbts/<br>fastbts.github.io/tree/master/Fast.com](https://github.com/fastbts/fastbts.github.io/tree/master/Fast.com)|
-|SpeedTest|[https://speedtest.net](https://speedtest.net)|[https://github.com/fastbts/<br>fastbts.github.io/tree/master/SpeedTest.net](https://github.com/fastbts/fastbts.github.io/tree/master/SpeedTest.net)|
+|ThinkBroadBand|[https://www.thinkbroadband.com](https://www.thinkbroadband.com)|[https://github.com/FastUpBTS<br>/FastUpBTS/tree/main/TBB](https://github.com/FastUpBTS/FastUpBTS/tree/main/TBB)|
+|SpeedOf|[https://speedof.me](https://speedof.me/)|[https://github.com/FastUpBTS<br>/FastUpBTS/tree/main/SpeedOf.me](https://github.com/FastUpBTS/FastUpBTS/tree/main/SpeedOf.me)|
+|BWP|[https://www.bandwidthplace.com](https://www.bandwidthplace.com/)|[https://github.com/FastUpBTS<br>/FastUpBTS/tree/main/BWP](https://github.com/FastUpBTS/FastUpBTS/tree/main/BWP)|
+|Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com)|[https://github.com/FastUpBTS<br>/FastUpBTS/tree/main/XFinity](https://github.com/FastUpBTS/FastUpBTS/tree/main/XFinity)|
+|FAST|[https://fast.com](https://fast.com)|[https://github.com/FastUpBTS<br>/FastUpBTS/tree/main/FAST.com](https://github.com/FastUpBTS/FastUpBTS/tree/main/FAST.com)|
+|SpeedTest|[https://speedtest.net](https://speedtest.net)|[https://github.com/FastUpBTS<br>/FastUpBTS/tree/main/SpeedTest.net](https://github.com/FastUpBTS/FastUpBTS/tree/main/SpeedTest.net)|
