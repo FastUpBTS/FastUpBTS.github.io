@@ -21,7 +21,7 @@
 
 [FastUpBTS We Implement](#fastupbts-we-implement)
 
-[Representitive BTSes](#representitive-btses)
+[Representitive BTSes We Reimplement for Fair Comparison](#representitive-btses-we-reimplement-for-fair-comparison)
 
 ## Introduction
 Access bandwidth measurement is crucial to emerging Internet applications for network-aware content delivery.
@@ -50,7 +50,7 @@ table th:nth-of-type(1) {
 |:----:|------|
 |FastUpBTS|[https://github.com/FastUpBTS/FastUpBTS/tree/main/FastUpBTS](https://github.com/FastUpBTS/FastUpBTS/tree/main/FastUpBTS)|
 
-## Representitive BTSes
+## Representitive BTSes We Reimplement for Fair Comparison
 <style>
 table th:first-of-type {
     width: 20%;
