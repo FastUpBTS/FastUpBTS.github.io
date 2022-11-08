@@ -62,7 +62,7 @@ table th:nth-of-type(3) {
     width: 40%;
 }
 </style>
-|BTS|Website|Our Implementation|
+|BTS|Website|Implementation|
 |:----:|------|------|
 |ThinkBroadBand|[https://www.thinkbroadband.com](https://www.thinkbroadband.com)|[https://github.com/FastUpBTS<br>/FastUpBTS/tree/main/TBB](https://github.com/FastUpBTS/FastUpBTS/tree/main/TBB)|
 |SpeedOf|[https://speedof.me](https://speedof.me/)|[https://github.com/FastUpBTS<br>/FastUpBTS/tree/main/SpeedOf.me](https://github.com/FastUpBTS/FastUpBTS/tree/main/SpeedOf.me)|
