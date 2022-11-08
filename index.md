@@ -70,4 +70,4 @@ table th:nth-of-type(3) {
 |Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com)|[https://github.com/FastUpBTS<br>/FastUpBTS/tree/main/XFinity](https://github.com/FastUpBTS/FastUpBTS/tree/main/XFinity)|
 |FAST|[https://fast.com](https://fast.com)|[https://github.com/FastUpBTS<br>/FastUpBTS/tree/main/FAST.com](https://github.com/FastUpBTS/FastUpBTS/tree/main/FAST.com)|
 |SpeedTest|[https://speedtest.net](https://speedtest.net)|[https://github.com/FastUpBTS<br>/FastUpBTS/tree/main/SpeedTest.net](https://github.com/FastUpBTS/FastUpBTS/tree/main/SpeedTest.net)|
-|LibreSpeed|[https://librespeed.org/](https://librespeed.org/)|[https://github.com/librespeed/speedtest<br>(directly use the open-source version)](https://github.com/librespeed/speedtest)|
+|LibreSpeed|[https://librespeed.org/](https://librespeed.org/)|[https://github.com/librespeed/speedtest](https://github.com/librespeed/speedtest)<br>(directly use the open-source version)|
